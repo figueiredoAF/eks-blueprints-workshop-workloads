@@ -1,9 +1,6 @@
 dependencies:
 - name: postgresql
-  repository: https://charts.helm.sh/stable
-  version: 8.6.4
-- name: redis
-  repository: https://charts.helm.sh/stable
-  version: 10.5.7
-digest: sha256:bfe30fcaf72a0609856bf1a5dab2b941e8ef89b30ba935aa820743a6758f4fc4
-generated: "2021-07-09T14:11:48.265069+10:00"
+  repository: https://charts.bitnami.com/bitnami
+  version: 12.1.9
+digest: sha256:becf42e73c2aac0b2200698e1aaeee1be13507db2f882e5713c91833351a94e6
+generated: "2023-01-20T11:34:59.293080448Z"
